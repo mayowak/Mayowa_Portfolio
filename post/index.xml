@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mayowa Kolawole</title>
+    <link>https://mayowak.github.io/Mayowa_Portfolio/post/</link>
+    <description>Recent content in Projects on Mayowa Kolawole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mayowak.github.io/Mayowa_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Web Scraping</title>
+      <link>https://mayowak.github.io/Mayowa_Portfolio/post/project-1/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayowak.github.io/Mayowa_Portfolio/post/project-1/</guid>
+      <description>Web Scraping is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications. There are many different ways to perform web scraping to obtain data from websites. these include using online services, particular API’s or even creating your code for web scraping from scratch.</description>
+    </item>
+    
+    <item>
+      <title>Project VI: Titanic Survivers</title>
+      <link>https://mayowak.github.io/Mayowa_Portfolio/post/project_5/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayowak.github.io/Mayowa_Portfolio/post/project_5/</guid>
+      <description>This is a contributed project that builds an API that predicts Titanic survivors given the following columns Pclass, Sex_male, Age, Fare, Embarked_Q, Embarked_S.
+The project made use of the popular titanic dataset which can be found in the Github repo.
+To perform prediction:
+  run the api.py script and click on the local host link
+  This takes you to a html page, where you are expected to train the first by clicking the Train Model button</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Prediction of crew memeber&#39;s size</title>
+      <link>https://mayowak.github.io/Mayowa_Portfolio/post/project-4/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayowak.github.io/Mayowa_Portfolio/post/project-4/</guid>
+      <description>The objective of this challenge was to build a regressor that recommends the crew member size for potential ship buyers. I used numpy, scipy, pandas, sklearn libraries for combatting this task.
+Project Overview
+ Read the file and display columns. Calculating basic statistics of the data (count, mean, std, etc), examining the data and stating my observations. Selection of columns important to predict crew size. Creating training and testing sets (60% training and remainder for testing).</description>
+    </item>
+    
+    <item>
+      <title>Project II: Predicting Credit Card Approval</title>
+      <link>https://mayowak.github.io/Mayowa_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayowak.github.io/Mayowa_Portfolio/post/project-2/</guid>
+      <description>Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual’s credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this project, you will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Collect User Input</title>
+      <link>https://mayowak.github.io/Mayowa_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mayowak.github.io/Mayowa_Portfolio/post/project-3/</guid>
+      <description>This python script was written using vscode. The purpose of this script is to collect input from a user and intelligently display the results. The script prompts for a users name, age and gender, and prints out the user’s name and age according to the gender input. It also calculates the user date of birth from the age and prints it out, stating the age group the user belongs to, the age of the user a decade ago, and the user’s age in the next 50 years per decade interval.</description>
+    </item>
+    
+  </channel>
+</rss>
